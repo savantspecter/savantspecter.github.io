@@ -3,7 +3,7 @@ description: >- # ignore
   Possibly interesting data analytics
 baseurl: ""
 url: "savantspecter.github.io"
-twitter_name: SavantSpecter
+twitter_username: SavantSpecter
 github_username: savantspecter
 
 #Build settings
