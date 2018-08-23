@@ -1,5 +1,6 @@
+##SAVANT.SPECTER: Possibly interesting data analytics
 
-Hopefully, interesting research into
+Focusing on research into
 * Crypto-Currencies
 * Data Analytics
 * Valuation and Trading Theory
