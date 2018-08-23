@@ -1,4 +1,4 @@
-##SAVANT.SPECTER: Possibly interesting data analytics
+## SAVANT.SPECTER: Possibly interesting data analytics
 
 Focusing on research into
 * Crypto-Currencies
