@@ -1,4 +1,3 @@
-## SAVANT.SPECTER
 
 Hopefully, interesting research into
 * Crypto-Currencies
