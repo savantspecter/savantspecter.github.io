@@ -1,1 +1,13 @@
-theme: jekyll-theme-minimal
+title: SAVANT.SPECTER
+description: >- # ignore
+  Possibly interesting data analytics
+baseurl: ""
+url: "savantspecter.github.io"
+twitter_name: SavantSpecter
+github_username: savantspecter
+
+#Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
