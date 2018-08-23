@@ -1,5 +1,8 @@
 ## SAVANT.SPECTER
 
-Hopefully interesting data analytics.
+Hopefully, interesting research into
+* Crypto-Currencies
+* Data Analytics
+* Valuation and Trading
 
-Probably some crypto-currency thoughts too.
+If I am lucky, I'll contribute more signal than noise to the discussion.
