@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Discourse on Token Valuation"
-date: 2018-08-23
+date: 2018-08-27
 categories: research valuation
 permalink: /:categories/:title.html
 ---
