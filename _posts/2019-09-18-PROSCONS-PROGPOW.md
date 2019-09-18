@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "REASONS FOR AND AGAINST PROGPOW"
+title: "REASONS FOR AND AGAINST PROGPOW ON ETHEREUM"
 date: 2019-09-18
 categories: research
 permalink: /:categories/:title.html
 ---
 
-Everything I could think of, off the top of my head, relating to the pros/cons for ProgPoW on Ethereum. 
+These are not my views but a summary of other points I have heard made in the community about the benefits and disadvantages of ProgPoW for Ethereum.
 
 Note that the positives for ProgPoW are more clearly defined- and so are more easily and succinctly enumerated. 
 Whereas the negatives emphasize places where Ethereum will have a larger theoretical attack surface.
 Point being, while the lists are not equal in size, I am not trying to imply that the cons outweigh the pros or vice-versa.
 
-*Will update later to clean up the bullet points and add points I missed *
+*Will update later to clean up the bullet points and add points I missed*
 
 PROS
 * Limits the benefits of specialized ASIC equipment over commodity GPUs
