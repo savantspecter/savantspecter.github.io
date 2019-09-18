@@ -20,6 +20,7 @@ PROS
 * Stays in line with the Ethereum ethos that mining will be GPU based
 * Keeps happy long-term ethereum miners who are primarily GPU
 	* This is one of many Ethereum stakeholders, and theoretically they have been around for a long time and invested in Ethereum early
+* There have been 2 imperfect votes, a miner's vote and a carbon vote. Both which supported moving the ProgPoW
 
 CONS
 * Adds significant complexity to the software
