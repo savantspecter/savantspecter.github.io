@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reasons for and against ProgPoW on Ethereum"
+title: "Pros & Cons of ProgPoW on Ethereum"
 date: 2019-09-18
 categories: research
 permalink: /:categories/:title.html
