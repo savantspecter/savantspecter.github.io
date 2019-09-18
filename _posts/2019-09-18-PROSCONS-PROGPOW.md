@@ -41,5 +41,6 @@ CONS
 	* Each time new commodity graphics cards are released a hardfork may be required to adjust ProgPOW to limit favoring a certain type of holder
 	* Putting more focus on PoW when PoS is planned in the future anyway
 * Capture of ethereum mining hardware is still controlled by a few big graphics card manufacturers
-* Switching to an ASIC friendly algorithm arguable stays closest to the Ethereum ethos of preventing mining centralization
+* Switching to an ASIC friendly algorithm arguably stays closest to the Ethereum ethos of preventing mining centralization
+	* ASIC friendly miners are easy to produce and so can be produce by the most number of manufacturers.
 
