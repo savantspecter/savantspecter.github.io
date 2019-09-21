@@ -45,4 +45,6 @@ CONS
 * Capture of ethereum mining hardware is still controlled by a few big graphics card manufacturers
 * Some argue that switching to ASIC friendly algorithm arguably stays closest to the Ethereum ethos of preventing mining centralization
 	* ASIC friendly hardware is easy to produce and so can be done by the greatest number of manufacturers.
+* There may be IP and copyright issues without any Contribution License Agreements
+* It has become a somewhat contentious issue and so could cause a network split
 
